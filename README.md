@@ -8,18 +8,12 @@ All of the code is organized into folders. Each folder starts with a number foll
 
 Code Snippet:
 
-<plugin> 
-        <groupId>org.apache.maven.plugins</groupId> 
-        <artifactId>maven-compiler-plugin</artifactId> 
-        <version>2.3.2</version>         
-      </plugin> 
-      <plugin> 
-        <groupId>org.apache.maven.plugins</groupId> 
-        <artifactId>maven-shade-plugin</artifactId> 
-        <configuration> 
-          <shadeTestJar>true</shadeTestJar> 
-        </configuration> 
-</plugin>
+public class JavaFPGrowthExample { 
+  public static void main(String[] args) { 
+   //Specify the input transactional as command line argument  
+   String fileName = "input/input.txt";  
+   //Configure a SparkSession as spark by specifying the application name, master URL, Spark config, and Spark warehouse directory 
+SparkSession spark = SparkSession 
 
 ### Related Spark Products:
 
