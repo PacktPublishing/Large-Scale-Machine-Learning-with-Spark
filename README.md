@@ -25,9 +25,9 @@ Code Snippet:
 
 * [Machine Learning with Spark](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-spark?utm_source=github&utm_medium=repository&utm_content=9781783288519) 
  
- * [Data Science with Spark [Video]](https://www.packtpub.com/big-data-and-business-intelligence/data-science-spark-video?utm_source=github&utm_medium=repository&utm_content=9781786467935)
+* [Data Science with Spark [Video]](https://www.packtpub.com/big-data-and-business-intelligence/data-science-spark-video?utm_source=github&utm_medium=repository&utm_content=9781786467935)
  
- * [Spark Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/spark-cookbook?utm_source=github&utm_medium=repository&utm_content=9781783987061)
+* [Spark Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/spark-cookbook?utm_source=github&utm_medium=repository&utm_content=9781783987061)
  
 ### Note:
 Chapter 02 and Chapter 10 doesnot contain code.
