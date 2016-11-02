@@ -24,7 +24,7 @@ Or creating simple RDD from the input dataset is set as follows:
 
 ```
 
-Software requirements: 
+### Software requirements: 
 
 Following software is required for chapters 1-8 and 10: Spark 2.0.0 (or higher), Hadoop 2.7 
 (or higher), Java (JDK and JRE) 1.7+/1.8+, Scala 2.11.x (or higher), Python 2.6+/3.4+, R 3.1+, 
@@ -39,7 +39,7 @@ software required, mentioned previously, except for the Twitter data collection 
 which will be shown in Spark 1.6.1. Therefore, Spark 1.6.1 or 1.6.2 is required, along with 
 the Maven-friendly pom.xml file. 
 
-Operating system requirements: 
+### Operating system requirements: 
 
 Spark can be run on a number of operating systems including Windows, Mac OS, and 
 LINUX. However, Linux distributions are preferable (including Debian, Ubuntu, Fedora, 
@@ -47,7 +47,7 @@ RHEL, CentOS and so on). To be more specific, for example, for Ubuntu it is reco
 to have a 14.04/15.04 (LTS) 64-bit complete installation or VMWare player 12 or Virtual 
 Box.  For Windows, Windows (XP/7/8/10) and for Mac OS X (10.4.7+) is recommended. 
 
-Hardware requirements: 
+### Hardware requirements: 
 
 To work with Spark smoothly, a machine with at least a core i3 or core i5 processor is 
 recommended.  However, to get the best results, core i7 would achieve faster data 
